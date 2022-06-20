@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Continuous Localization and Startups
 - 😄 Pronouns: he/him
+- 📫 How to reach me: [Twitter](https://twitter.com/cungminh2710) and [LinkedIn](https://www.linkedin.com/in/minhcung/)
 
 <!--
 **cungminh2710/cungminh2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
