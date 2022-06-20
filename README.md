@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Canva](canva.com) and [Trip.social](trip.social)
+- 🌱 I’m currently learning Swift
+- 💬 Ask me about Continuous Localization and Startups
+- 😄 Pronouns: he/him
+
 <!--
 **cungminh2710/cungminh2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
