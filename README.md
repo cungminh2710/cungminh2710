@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Canva](canva.com) and [Trip.social](trip.social)
+- 🔭 I’m currently working on [Canva](https://canva.com) and [Trip.social](https://trip.social)
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Continuous Localization and Startups
 - 😄 Pronouns: he/him
